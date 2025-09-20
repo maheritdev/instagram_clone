@@ -2,15 +2,13 @@
 
 Instagram application clone
 
-## Getting Started
+ScreenShots
+[screenshots/switchacc.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/switchacc.png)
+[screenshots/login.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/login.png)
+[screenshots/homepage.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/homepage.png)
+[screenshots/searchpage.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/searchpage.png)
+[screenshots/notifications.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/notifications.png)
+[screenshots/profile.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/profile.png)
+[screenshots/menu.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/menu.png)
+[screenshots/DM.png](https://github.com/maheritdev/instagram_clone/blob/master/screenshots/DM.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
